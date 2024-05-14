@@ -1,0 +1,28 @@
+C:\Users\metal\OneDrive\Radna površina\fax\Huffman_A_variation\Huffman_A_variation\bin\Debug\net7.0\Huffman_A_variation.exe
+C:\Users\metal\OneDrive\Radna površina\fax\Huffman_A_variation\Huffman_A_variation\bin\Debug\net7.0\Huffman_A_variation.deps.json
+C:\Users\metal\OneDrive\Radna površina\fax\Huffman_A_variation\Huffman_A_variation\bin\Debug\net7.0\Huffman_A_variation.runtimeconfig.json
+C:\Users\metal\OneDrive\Radna površina\fax\Huffman_A_variation\Huffman_A_variation\bin\Debug\net7.0\Huffman_A_variation.dll
+C:\Users\metal\OneDrive\Radna površina\fax\Huffman_A_variation\Huffman_A_variation\bin\Debug\net7.0\Huffman_A_variation.pdb
+C:\Users\metal\OneDrive\Radna površina\fax\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\Huffman_A_variation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metal\OneDrive\Radna površina\fax\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\Huffman_A_variation.AssemblyInfoInputs.cache
+C:\Users\metal\OneDrive\Radna površina\fax\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\Huffman_A_variation.AssemblyInfo.cs
+C:\Users\metal\OneDrive\Radna površina\fax\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\Huffman_A_variation.csproj.CoreCompileInputs.cache
+C:\Users\metal\OneDrive\Radna površina\fax\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\Huffman_A_variation.dll
+C:\Users\metal\OneDrive\Radna površina\fax\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\refint\Huffman_A_variation.dll
+C:\Users\metal\OneDrive\Radna površina\fax\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\Huffman_A_variation.pdb
+C:\Users\metal\OneDrive\Radna površina\fax\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\Huffman_A_variation.genruntimeconfig.cache
+C:\Users\metal\OneDrive\Radna površina\fax\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\ref\Huffman_A_variation.dll
+C:\Users\metal\OneDrive\Radna površina\fax\obrada signala\Huffman_A_variation\Huffman_A_variation\bin\Debug\net7.0\Huffman_A_variation.exe
+C:\Users\metal\OneDrive\Radna površina\fax\obrada signala\Huffman_A_variation\Huffman_A_variation\bin\Debug\net7.0\Huffman_A_variation.deps.json
+C:\Users\metal\OneDrive\Radna površina\fax\obrada signala\Huffman_A_variation\Huffman_A_variation\bin\Debug\net7.0\Huffman_A_variation.runtimeconfig.json
+C:\Users\metal\OneDrive\Radna površina\fax\obrada signala\Huffman_A_variation\Huffman_A_variation\bin\Debug\net7.0\Huffman_A_variation.dll
+C:\Users\metal\OneDrive\Radna površina\fax\obrada signala\Huffman_A_variation\Huffman_A_variation\bin\Debug\net7.0\Huffman_A_variation.pdb
+C:\Users\metal\OneDrive\Radna površina\fax\obrada signala\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\Huffman_A_variation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metal\OneDrive\Radna površina\fax\obrada signala\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\Huffman_A_variation.AssemblyInfoInputs.cache
+C:\Users\metal\OneDrive\Radna površina\fax\obrada signala\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\Huffman_A_variation.AssemblyInfo.cs
+C:\Users\metal\OneDrive\Radna površina\fax\obrada signala\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\Huffman_A_variation.csproj.CoreCompileInputs.cache
+C:\Users\metal\OneDrive\Radna površina\fax\obrada signala\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\Huffman_A_variation.dll
+C:\Users\metal\OneDrive\Radna površina\fax\obrada signala\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\refint\Huffman_A_variation.dll
+C:\Users\metal\OneDrive\Radna površina\fax\obrada signala\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\Huffman_A_variation.pdb
+C:\Users\metal\OneDrive\Radna površina\fax\obrada signala\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\Huffman_A_variation.genruntimeconfig.cache
+C:\Users\metal\OneDrive\Radna površina\fax\obrada signala\Huffman_A_variation\Huffman_A_variation\obj\Debug\net7.0\ref\Huffman_A_variation.dll

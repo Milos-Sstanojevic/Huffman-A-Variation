@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9lFxw/Uhwd0I6c6GhC2QzsXGdwgrXEtH/RLo3Lfs9/mFEInqVevKays1Ydnn0PEHzHtsxPp+UruOPMOWuiPHJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\metal\\OneDrive\\Radna površina\\fax\\obrada signala\\Huffman_A_variation\\Huffman_A_variation\\Huffman_A_variation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\metal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\metal\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\metal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\metal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
